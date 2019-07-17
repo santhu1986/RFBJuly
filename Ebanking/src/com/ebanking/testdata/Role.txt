@@ -1,0 +1,4 @@
+Rname###Rdes###Rtyp###Results
+telleraxis01###Teller###E
+telleraxis06###Teller###E
+telleraxis02###Teller###E

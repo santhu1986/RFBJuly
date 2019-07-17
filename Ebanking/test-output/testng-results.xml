@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="56922" started-at="2018-12-28T11:21:32Z" finished-at="2018-12-28T11:22:29Z">
+    <groups>
+    </groups>
+    <test name="on chrome" duration-ms="31573" started-at="2018-12-28T11:21:32Z" finished-at="2018-12-28T11:22:03Z">
+      <class name="com.ebanking.master.Grids">
+        <test-method status="PASS" signature="grid(java.lang.String)[pri:0, instance:com.ebanking.master.Grids@675d3402]" name="grid" duration-ms="31156" started-at="2018-12-28T16:51:32Z" finished-at="2018-12-28T16:52:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- grid -->
+      </class> <!-- com.ebanking.master.Grids -->
+    </test> <!-- on chrome -->
+    <test name="on firefox" duration-ms="56922" started-at="2018-12-28T11:21:32Z" finished-at="2018-12-28T11:22:29Z">
+      <class name="com.ebanking.master.Grids">
+        <test-method status="PASS" signature="grid(java.lang.String)[pri:0, instance:com.ebanking.master.Grids@5d5eef3d]" name="grid" duration-ms="56880" started-at="2018-12-28T16:51:32Z" finished-at="2018-12-28T16:52:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- grid -->
+      </class> <!-- com.ebanking.master.Grids -->
+    </test> <!-- on firefox -->
+  </suite> <!-- Suite -->
+</testng-results>

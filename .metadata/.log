@@ -1,0 +1,1398 @@
+!SESSION 2018-10-25 10:36:34.251 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-10-25 10:37:45.256
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.epp.logging.aeri.ide 2 10 2018-10-25 10:46:36.434
+!MESSAGE Updating the index from remote failed. ; version: 1.100.0.v20160217-0435
+!STACK 0
+java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(Unknown Source)
+	at java.util.zip.InflaterInputStream.read(Unknown Source)
+	at java.util.zip.ZipInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at com.google.common.io.ByteStreams.copy(ByteStreams.java:169)
+	at com.google.common.io.ByteSink.writeFrom(ByteSink.java:134)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.Zips.unzip(Zips.java:82)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.ServerProblemsHistory$UpdateIndexJob.run(ServerProblemsHistory.java:293)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SESSION 2018-10-29 10:45:38.635 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-10-29 10:47:00.830
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-10-30 11:26:52.508 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-10-30 11:28:56.077
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-10-31 11:22:50.736 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-10-31 11:23:49.400
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-11-01 12:39:00.969 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-11-01 12:39:35.365
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-11-08 11:03:10.989 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-11-08 11:04:16.167
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 0 2018-11-08 11:35:03.535
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage.dialogChanged(NewTestNGClassWizardPage.java:236)
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage.access$0(NewTestNGClassWizardPage.java:231)
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage$1.modifyText(NewTestNGClassWizardPage.java:92)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:179)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1137)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1118)
+	at org.eclipse.swt.widgets.Text.wmCommandChild(Text.java:3071)
+	at org.eclipse.swt.widgets.Control.WM_COMMAND(Control.java:4824)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4679)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5063)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProc(OS.java:2443)
+	at org.eclipse.swt.widgets.Text.callWindowProc(Text.java:260)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4774)
+	at org.eclipse.swt.widgets.Text.windowProc(Text.java:2671)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5050)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2549)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3767)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:827)
+	at org.eclipse.jface.window.Window.open(Window.java:803)
+	at org.testng.eclipse.refactoring.CreateClassAction.execute(CreateClassAction.java:22)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:295)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:252)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:234)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:493)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:486)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:799)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.handleWidgetSelection(HandledContributionItem.java:675)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.access$7(HandledContributionItem.java:659)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem$4.handleEvent(HandledContributionItem.java:592)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4180)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3769)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+
+!ENTRY org.eclipse.ui 4 0 2018-11-08 11:35:03.762
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage.dialogChanged(NewTestNGClassWizardPage.java:236)
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage.access$0(NewTestNGClassWizardPage.java:231)
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage$1.modifyText(NewTestNGClassWizardPage.java:92)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:179)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1137)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1118)
+	at org.eclipse.swt.widgets.Text.wmCommandChild(Text.java:3071)
+	at org.eclipse.swt.widgets.Control.WM_COMMAND(Control.java:4824)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4679)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5063)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProc(OS.java:2443)
+	at org.eclipse.swt.widgets.Text.callWindowProc(Text.java:260)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4774)
+	at org.eclipse.swt.widgets.Text.windowProc(Text.java:2671)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5050)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2549)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3767)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:827)
+	at org.eclipse.jface.window.Window.open(Window.java:803)
+	at org.testng.eclipse.refactoring.CreateClassAction.execute(CreateClassAction.java:22)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:295)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:252)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:234)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:493)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:486)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:799)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.handleWidgetSelection(HandledContributionItem.java:675)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.access$7(HandledContributionItem.java:659)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem$4.handleEvent(HandledContributionItem.java:592)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4180)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3769)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+
+!ENTRY org.eclipse.ui 4 0 2018-11-08 11:35:03.918
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage.dialogChanged(NewTestNGClassWizardPage.java:236)
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage.access$0(NewTestNGClassWizardPage.java:231)
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage$1.modifyText(NewTestNGClassWizardPage.java:92)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:179)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1137)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1118)
+	at org.eclipse.swt.widgets.Text.wmCommandChild(Text.java:3071)
+	at org.eclipse.swt.widgets.Control.WM_COMMAND(Control.java:4824)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4679)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5063)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProc(OS.java:2443)
+	at org.eclipse.swt.widgets.Text.callWindowProc(Text.java:260)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4774)
+	at org.eclipse.swt.widgets.Text.windowProc(Text.java:2671)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5050)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2549)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3767)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:827)
+	at org.eclipse.jface.window.Window.open(Window.java:803)
+	at org.testng.eclipse.refactoring.CreateClassAction.execute(CreateClassAction.java:22)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:295)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:252)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:234)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:493)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:486)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:799)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.handleWidgetSelection(HandledContributionItem.java:675)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.access$7(HandledContributionItem.java:659)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem$4.handleEvent(HandledContributionItem.java:592)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4180)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3769)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+
+!ENTRY org.eclipse.ui 4 0 2018-11-08 11:35:04.107
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage.dialogChanged(NewTestNGClassWizardPage.java:236)
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage.access$0(NewTestNGClassWizardPage.java:231)
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage$1.modifyText(NewTestNGClassWizardPage.java:92)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:179)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1137)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1118)
+	at org.eclipse.swt.widgets.Text.wmCommandChild(Text.java:3071)
+	at org.eclipse.swt.widgets.Control.WM_COMMAND(Control.java:4824)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4679)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5063)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProc(OS.java:2443)
+	at org.eclipse.swt.widgets.Text.callWindowProc(Text.java:260)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4774)
+	at org.eclipse.swt.widgets.Text.windowProc(Text.java:2671)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5050)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2549)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3767)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:827)
+	at org.eclipse.jface.window.Window.open(Window.java:803)
+	at org.testng.eclipse.refactoring.CreateClassAction.execute(CreateClassAction.java:22)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:295)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:252)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:234)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:493)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:486)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:799)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.handleWidgetSelection(HandledContributionItem.java:675)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.access$7(HandledContributionItem.java:659)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem$4.handleEvent(HandledContributionItem.java:592)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4180)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3769)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+
+!ENTRY org.eclipse.ui 4 0 2018-11-08 11:35:04.293
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage.dialogChanged(NewTestNGClassWizardPage.java:236)
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage.access$0(NewTestNGClassWizardPage.java:231)
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage$1.modifyText(NewTestNGClassWizardPage.java:92)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:179)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1137)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1118)
+	at org.eclipse.swt.widgets.Text.wmCommandChild(Text.java:3071)
+	at org.eclipse.swt.widgets.Control.WM_COMMAND(Control.java:4824)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4679)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5063)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProc(OS.java:2443)
+	at org.eclipse.swt.widgets.Text.callWindowProc(Text.java:260)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4774)
+	at org.eclipse.swt.widgets.Text.windowProc(Text.java:2671)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5050)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2549)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3767)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:827)
+	at org.eclipse.jface.window.Window.open(Window.java:803)
+	at org.testng.eclipse.refactoring.CreateClassAction.execute(CreateClassAction.java:22)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:295)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:252)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:234)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:493)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:486)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:799)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.handleWidgetSelection(HandledContributionItem.java:675)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.access$7(HandledContributionItem.java:659)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem$4.handleEvent(HandledContributionItem.java:592)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4180)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3769)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+
+!ENTRY org.eclipse.ui 4 0 2018-11-08 11:35:04.503
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage.dialogChanged(NewTestNGClassWizardPage.java:236)
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage.access$0(NewTestNGClassWizardPage.java:231)
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage$1.modifyText(NewTestNGClassWizardPage.java:92)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:179)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1137)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1118)
+	at org.eclipse.swt.widgets.Text.wmCommandChild(Text.java:3071)
+	at org.eclipse.swt.widgets.Control.WM_COMMAND(Control.java:4824)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4679)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5063)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProc(OS.java:2443)
+	at org.eclipse.swt.widgets.Text.callWindowProc(Text.java:260)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4774)
+	at org.eclipse.swt.widgets.Text.windowProc(Text.java:2671)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5050)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2549)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3767)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:827)
+	at org.eclipse.jface.window.Window.open(Window.java:803)
+	at org.testng.eclipse.refactoring.CreateClassAction.execute(CreateClassAction.java:22)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:295)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:252)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:234)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:493)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:486)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:799)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.handleWidgetSelection(HandledContributionItem.java:675)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.access$7(HandledContributionItem.java:659)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem$4.handleEvent(HandledContributionItem.java:592)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4180)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3769)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+
+!ENTRY org.eclipse.ui 4 0 2018-11-08 11:35:04.725
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage.dialogChanged(NewTestNGClassWizardPage.java:236)
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage.access$0(NewTestNGClassWizardPage.java:231)
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage$1.modifyText(NewTestNGClassWizardPage.java:92)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:179)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1137)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1118)
+	at org.eclipse.swt.widgets.Text.wmCommandChild(Text.java:3071)
+	at org.eclipse.swt.widgets.Control.WM_COMMAND(Control.java:4824)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4679)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5063)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProc(OS.java:2443)
+	at org.eclipse.swt.widgets.Text.callWindowProc(Text.java:260)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4774)
+	at org.eclipse.swt.widgets.Text.windowProc(Text.java:2671)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5050)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2549)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3767)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:827)
+	at org.eclipse.jface.window.Window.open(Window.java:803)
+	at org.testng.eclipse.refactoring.CreateClassAction.execute(CreateClassAction.java:22)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:295)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:252)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:234)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:493)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:486)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:799)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.handleWidgetSelection(HandledContributionItem.java:675)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.access$7(HandledContributionItem.java:659)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem$4.handleEvent(HandledContributionItem.java:592)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4180)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3769)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+
+!ENTRY org.eclipse.ui 4 0 2018-11-08 11:35:05.314
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage.dialogChanged(NewTestNGClassWizardPage.java:236)
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage.access$0(NewTestNGClassWizardPage.java:231)
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage$1.modifyText(NewTestNGClassWizardPage.java:92)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:179)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1137)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1118)
+	at org.eclipse.swt.widgets.Text.wmCommandChild(Text.java:3071)
+	at org.eclipse.swt.widgets.Control.WM_COMMAND(Control.java:4824)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4679)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5063)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProc(OS.java:2443)
+	at org.eclipse.swt.widgets.Text.callWindowProc(Text.java:260)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4774)
+	at org.eclipse.swt.widgets.Text.windowProc(Text.java:2671)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5050)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2549)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3767)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:827)
+	at org.eclipse.jface.window.Window.open(Window.java:803)
+	at org.testng.eclipse.refactoring.CreateClassAction.execute(CreateClassAction.java:22)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:295)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:252)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:234)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:493)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:486)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:799)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.handleWidgetSelection(HandledContributionItem.java:675)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.access$7(HandledContributionItem.java:659)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem$4.handleEvent(HandledContributionItem.java:592)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4180)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3769)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+
+!ENTRY org.eclipse.ui 4 0 2018-11-08 11:35:05.514
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage.dialogChanged(NewTestNGClassWizardPage.java:236)
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage.access$0(NewTestNGClassWizardPage.java:231)
+	at org.testng.eclipse.wizards.NewTestNGClassWizardPage$1.modifyText(NewTestNGClassWizardPage.java:92)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:179)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1137)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1118)
+	at org.eclipse.swt.widgets.Text.wmCommandChild(Text.java:3071)
+	at org.eclipse.swt.widgets.Control.WM_COMMAND(Control.java:4824)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4679)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5063)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProc(OS.java:2443)
+	at org.eclipse.swt.widgets.Text.callWindowProc(Text.java:260)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4774)
+	at org.eclipse.swt.widgets.Text.windowProc(Text.java:2671)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5050)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2549)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3767)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:827)
+	at org.eclipse.jface.window.Window.open(Window.java:803)
+	at org.testng.eclipse.refactoring.CreateClassAction.execute(CreateClassAction.java:22)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:295)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:252)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:234)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:493)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:486)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:799)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.handleWidgetSelection(HandledContributionItem.java:675)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.access$7(HandledContributionItem.java:659)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem$4.handleEvent(HandledContributionItem.java:592)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4180)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3769)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+
+!ENTRY org.testng.eclipse 1 0 2018-11-08 11:43:18.896
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar E:\MrngOct\Ebanking\bin E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52096 -protocol json -d E:\MrngOct\Ebanking\test-output C:\Users\admin\AppData\Local\Temp\testng-eclipse--1061400777\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:E:\MrngOct\Ebanking\bin:E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar:C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar org.testng.remote.RemoteTestNG -serport 52096 -protocol json -d E:\MrngOct\Ebanking\test-output C:\Users\admin\AppData\Local\Temp\testng-eclipse--1061400777\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-11-08 11:48:35.175
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar E:\MrngOct\Ebanking\bin E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52324 -protocol json -d E:\MrngOct\Ebanking\test-output C:\Users\admin\AppData\Local\Temp\testng-eclipse--1468790210\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:E:\MrngOct\Ebanking\bin:E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar:C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar org.testng.remote.RemoteTestNG -serport 52324 -protocol json -d E:\MrngOct\Ebanking\test-output C:\Users\admin\AppData\Local\Temp\testng-eclipse--1468790210\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-11-08 11:53:40.874
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar E:\MrngOct\Ebanking\bin E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52535 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testng.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:E:\MrngOct\Ebanking\bin:E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar:C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar org.testng.remote.RemoteTestNG -serport 52535 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testng.xml
+!SESSION 2018-11-09 10:44:23.974 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-11-09 10:45:02.901
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2018-11-09 11:08:50.165
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar E:\MrngOct\Ebanking\bin E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51698 -protocol json -d E:\MrngOct\Ebanking\test-output C:\Users\admin\AppData\Local\Temp\testng-eclipse--1173855829\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:E:\MrngOct\Ebanking\bin:E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar:C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar org.testng.remote.RemoteTestNG -serport 51698 -protocol json -d E:\MrngOct\Ebanking\test-output C:\Users\admin\AppData\Local\Temp\testng-eclipse--1173855829\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-11-09 11:12:06.455
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar E:\MrngOct\Ebanking\bin E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51872 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testng.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:E:\MrngOct\Ebanking\bin:E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar:C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar org.testng.remote.RemoteTestNG -serport 51872 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-11-09 11:50:42.245
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar E:\MrngOct\Ebanking\bin E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53401 -protocol json -d E:\MrngOct\Ebanking\test-output C:\Users\admin\AppData\Local\Temp\testng-eclipse-346733939\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:E:\MrngOct\Ebanking\bin:E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar:C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar org.testng.remote.RemoteTestNG -serport 53401 -protocol json -d E:\MrngOct\Ebanking\test-output C:\Users\admin\AppData\Local\Temp\testng-eclipse-346733939\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-11-09 11:51:10.609
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar E:\MrngOct\Ebanking\bin E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53441 -protocol json -d E:\MrngOct\Ebanking\test-output C:\Users\admin\AppData\Local\Temp\testng-eclipse--1128347372\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:E:\MrngOct\Ebanking\bin:E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar:C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar org.testng.remote.RemoteTestNG -serport 53441 -protocol json -d E:\MrngOct\Ebanking\test-output C:\Users\admin\AppData\Local\Temp\testng-eclipse--1128347372\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-11-09 11:59:37.173
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar E:\MrngOct\Ebanking\bin E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53610 -protocol json -d E:\MrngOct\Ebanking\test-output C:\Users\admin\AppData\Local\Temp\testng-eclipse-173193572\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:E:\MrngOct\Ebanking\bin:E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar:C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar org.testng.remote.RemoteTestNG -serport 53610 -protocol json -d E:\MrngOct\Ebanking\test-output C:\Users\admin\AppData\Local\Temp\testng-eclipse-173193572\testng-customsuite.xml
+!SESSION 2018-11-12 12:03:54.025 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-11-12 12:04:36.779
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-11-13 11:47:45.815 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-11-13 11:48:26.116
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2018-11-13 11:58:24.567
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar E:\MrngOct\Ebanking\bin E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53647 -protocol json -d E:\MrngOct\Ebanking\test-output C:\Users\admin\AppData\Local\Temp\testng-eclipse-420903820\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:E:\MrngOct\Ebanking\bin:E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar:C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar org.testng.remote.RemoteTestNG -serport 53647 -protocol json -d E:\MrngOct\Ebanking\test-output C:\Users\admin\AppData\Local\Temp\testng-eclipse-420903820\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-11-13 12:07:22.696
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar E:\MrngOct\Ebanking\bin E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54216 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testnggrid.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:E:\MrngOct\Ebanking\bin:E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar:C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar org.testng.remote.RemoteTestNG -serport 54216 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testnggrid.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-11-13 12:11:38.355
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar E:\MrngOct\Ebanking\bin E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54495 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testnggrid.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:E:\MrngOct\Ebanking\bin:E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar:C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar org.testng.remote.RemoteTestNG -serport 54495 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testnggrid.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-11-13 12:13:15.198
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar E:\MrngOct\Ebanking\bin E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54670 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testnggrid.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:E:\MrngOct\Ebanking\bin:E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar:C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar org.testng.remote.RemoteTestNG -serport 54670 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testnggrid.xml
+!SESSION 2018-11-16 12:52:18.465 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-11-16 12:53:09.008
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.epp.logging.aeri.ide 2 10 2018-11-16 12:59:44.145
+!MESSAGE Updating the index from remote failed. ; version: 1.100.0.v20160217-0435
+!STACK 0
+java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(Unknown Source)
+	at java.util.zip.InflaterInputStream.read(Unknown Source)
+	at java.util.zip.ZipInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at com.google.common.io.ByteStreams.copy(ByteStreams.java:169)
+	at com.google.common.io.ByteSink.writeFrom(ByteSink.java:134)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.Zips.unzip(Zips.java:82)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.ServerProblemsHistory$UpdateIndexJob.run(ServerProblemsHistory.java:293)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.testng.eclipse 1 0 2018-11-16 13:08:45.082
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar C:\Users\admin\mvnrbfnov\target\test-classes C:\Users\admin\mvnrbfnov\target\classes C:\Users\admin\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar C:\Users\admin\.m2\repository\junit\junit\4.11\junit-4.11.jar C:\Users\admin\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-server\2.53.1\selenium-server-2.53.1.jar C:\Users\admin\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar C:\Users\admin\.m2\repository\org\bouncycastle\bcprov-jdk15on\1.48\bcprov-jdk15on-1.48.jar C:\Users\admin\.m2\repository\org\bouncycastle\bcpkix-jdk15on\1.48\bcpkix-jdk15on-1.48.jar C:\Users\admin\.m2\repository\mx4j\mx4j-tools\3.0.1\mx4j-tools-3.0.1.jar C:\Users\admin\.m2\repository\org\seleniumhq\selenium\jetty-repacked\9.2.13.v20150730\jetty-repacked-9.2.13.v20150730.jar C:\Users\admin\.m2\repository\org\seleniumhq\selenium\jetty-rc-repacked\5\jetty-rc-repacked-5.jar C:\Users\admin\.m2\repository\net\jcip\jcip-annotations\1.0\jcip-annotations-1.0.jar C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-java\2.53.1\selenium-java-2.53.1.jar C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\2.53.1\selenium-chrome-driver-2.53.1.jar C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\2.53.1\selenium-remote-driver-2.53.1.jar C:\Users\admin\.m2\repository\cglib\cglib-nodep\2.1_3\cglib-nodep-2.1_3.jar C:\Users\admin\.m2\repository\com\google\code\gson\gson\2.3.1\gson-2.3.1.jar C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-api\2.53.1\selenium-api-2.53.1.jar C:\Users\admin\.m2\repository\com\google\guava\guava\19.0\guava-19.0.jar C:\Users\admin\.m2\repository\org\apache\httpcomponents\httpclient\4.5.1\httpclient-4.5.1.jar C:\Users\admin\.m2\repository\org\apache\httpcomponents\httpcore\4.4.3\httpcore-4.4.3.jar C:\Users\admin\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar C:\Users\admin\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar C:\Users\admin\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar C:\Users\admin\.m2\repository\net\java\dev\jna\jna\4.1.0\jna-4.1.0.jar C:\Users\admin\.m2\repository\net\java\dev\jna\jna-platform\4.1.0\jna-platform-4.1.0.jar C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\2.53.1\selenium-edge-driver-2.53.1.jar C:\Users\admin\.m2\repository\commons-io\commons-io\2.4\commons-io-2.4.jar C:\Users\admin\.m2\repository\org\seleniumhq\selenium\htmlunit-driver\2.21\htmlunit-driver-2.21.jar C:\Users\admin\.m2\repository\net\sourceforge\htmlunit\htmlunit\2.21\htmlunit-2.21.jar C:\Users\admin\.m2\repository\xalan\xalan\2.7.2\xalan-2.7.2.jar C:\Users\admin\.m2\repository\xalan\serializer\2.7.2\serializer-2.7.2.jar C:\Users\admin\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar C:\Users\admin\.m2\repository\org\apache\httpcomponents\httpmime\4.5.2\httpmime-4.5.2.jar C:\Users\admin\.m2\repository\net\sourceforge\htmlunit\htmlunit-core-js\2.17\htmlunit-core-js-2.17.jar C:\Users\admin\.m2\repository\net\sourceforge\htmlunit\neko-htmlunit\2.21\neko-htmlunit-2.21.jar C:\Users\admin\.m2\repository\xerces\xercesImpl\2.11.0\xercesImpl-2.11.0.jar C:\Users\admin\.m2\repository\xml-apis\xml-apis\1.4.01\xml-apis-1.4.01.jar C:\Users\admin\.m2\repository\net\sourceforge\cssparser\cssparser\0.9.18\cssparser-0.9.18.jar C:\Users\admin\.m2\repository\org\w3c\css\sac\1.3\sac-1.3.jar C:\Users\admin\.m2\repository\org\eclipse\jetty\websocket\websocket-client\9.2.15.v20160210\websocket-client-9.2.15.v20160210.jar C:\Users\admin\.m2\repository\org\eclipse\jetty\jetty-util\9.2.15.v20160210\jetty-util-9.2.15.v20160210.jar C:\Users\admin\.m2\repository\org\eclipse\jetty\jetty-io\9.2.15.v20160210\jetty-io-9.2.15.v20160210.jar C:\Users\admin\.m2\repository\org\eclipse\jetty\websocket\websocket-common\9.2.15.v20160210\websocket-common-9.2.15.v20160210.jar C:\Users\admin\.m2\repository\org\eclipse\jetty\websocket\websocket-api\9.2.15.v20160210\websocket-api-9.2.15.v20160210.jar C:\Users\admin\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\2.53.1\selenium-firefox-driver-2.53.1.jar C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\2.53.1\selenium-ie-driver-2.53.1.jar C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\2.53.1\selenium-safari-driver-2.53.1.jar C:\Users\admin\.m2\repository\io\netty\netty\3.5.7.Final\netty-3.5.7.Final.jar C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-support\2.53.1\selenium-support-2.53.1.jar C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-leg-rc\2.53.1\selenium-leg-rc-2.53.1.jar C:\Users\admin\.m2\repository\org\yaml\snakeyaml\1.8\snakeyaml-1.8.jar C:\Users\admin\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar C:\Users\admin\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50826 -protocol json -d C:\Users\admin\mvnrbfnov\test-output C:\Users\admin\AppData\Local\Temp\testng-eclipse-319098342\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:C:\Users\admin\mvnrbfnov\target\test-classes:C:\Users\admin\mvnrbfnov\target\classes:C:\Users\admin\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar:C:\Users\admin\.m2\repository\junit\junit\4.11\junit-4.11.jar:C:\Users\admin\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar:C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-server\2.53.1\selenium-server-2.53.1.jar:C:\Users\admin\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar:C:\Users\admin\.m2\repository\org\bouncycastle\bcprov-jdk15on\1.48\bcprov-jdk15on-1.48.jar:C:\Users\admin\.m2\repository\org\bouncycastle\bcpkix-jdk15on\1.48\bcpkix-jdk15on-1.48.jar:C:\Users\admin\.m2\repository\mx4j\mx4j-tools\3.0.1\mx4j-tools-3.0.1.jar:C:\Users\admin\.m2\repository\org\seleniumhq\selenium\jetty-repacked\9.2.13.v20150730\jetty-repacked-9.2.13.v20150730.jar:C:\Users\admin\.m2\repository\org\seleniumhq\selenium\jetty-rc-repacked\5\jetty-rc-repacked-5.jar:C:\Users\admin\.m2\repository\net\jcip\jcip-annotations\1.0\jcip-annotations-1.0.jar:C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-java\2.53.1\selenium-java-2.53.1.jar:C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\2.53.1\selenium-chrome-driver-2.53.1.jar:C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\2.53.1\selenium-remote-driver-2.53.1.jar:C:\Users\admin\.m2\repository\cglib\cglib-nodep\2.1_3\cglib-nodep-2.1_3.jar:C:\Users\admin\.m2\repository\com\google\code\gson\gson\2.3.1\gson-2.3.1.jar:C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-api\2.53.1\selenium-api-2.53.1.jar:C:\Users\admin\.m2\repository\com\google\guava\guava\19.0\guava-19.0.jar:C:\Users\admin\.m2\repository\org\apache\httpcomponents\httpclient\4.5.1\httpclient-4.5.1.jar:C:\Users\admin\.m2\repository\org\apache\httpcomponents\httpcore\4.4.3\httpcore-4.4.3.jar:C:\Users\admin\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar:C:\Users\admin\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar:C:\Users\admin\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar:C:\Users\admin\.m2\repository\net\java\dev\jna\jna\4.1.0\jna-4.1.0.jar:C:\Users\admin\.m2\repository\net\java\dev\jna\jna-platform\4.1.0\jna-platform-4.1.0.jar:C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\2.53.1\selenium-edge-driver-2.53.1.jar:C:\Users\admin\.m2\repository\commons-io\commons-io\2.4\commons-io-2.4.jar:C:\Users\admin\.m2\repository\org\seleniumhq\selenium\htmlunit-driver\2.21\htmlunit-driver-2.21.jar:C:\Users\admin\.m2\repository\net\sourceforge\htmlunit\htmlunit\2.21\htmlunit-2.21.jar:C:\Users\admin\.m2\repository\xalan\xalan\2.7.2\xalan-2.7.2.jar:C:\Users\admin\.m2\repository\xalan\serializer\2.7.2\serializer-2.7.2.jar:C:\Users\admin\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar:C:\Users\admin\.m2\repository\org\apache\httpcomponents\httpmime\4.5.2\httpmime-4.5.2.jar:C:\Users\admin\.m2\repository\net\sourceforge\htmlunit\htmlunit-core-js\2.17\htmlunit-core-js-2.17.jar:C:\Users\admin\.m2\repository\net\sourceforge\htmlunit\neko-htmlunit\2.21\neko-htmlunit-2.21.jar:C:\Users\admin\.m2\repository\xerces\xercesImpl\2.11.0\xercesImpl-2.11.0.jar:C:\Users\admin\.m2\repository\xml-apis\xml-apis\1.4.01\xml-apis-1.4.01.jar:C:\Users\admin\.m2\repository\net\sourceforge\cssparser\cssparser\0.9.18\cssparser-0.9.18.jar:C:\Users\admin\.m2\repository\org\w3c\css\sac\1.3\sac-1.3.jar:C:\Users\admin\.m2\repository\org\eclipse\jetty\websocket\websocket-client\9.2.15.v20160210\websocket-client-9.2.15.v20160210.jar:C:\Users\admin\.m2\repository\org\eclipse\jetty\jetty-util\9.2.15.v20160210\jetty-util-9.2.15.v20160210.jar:C:\Users\admin\.m2\repository\org\eclipse\jetty\jetty-io\9.2.15.v20160210\jetty-io-9.2.15.v20160210.jar:C:\Users\admin\.m2\repository\org\eclipse\jetty\websocket\websocket-common\9.2.15.v20160210\websocket-common-9.2.15.v20160210.jar:C:\Users\admin\.m2\repository\org\eclipse\jetty\websocket\websocket-api\9.2.15.v20160210\websocket-api-9.2.15.v20160210.jar:C:\Users\admin\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar:C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\2.53.1\selenium-firefox-driver-2.53.1.jar:C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\2.53.1\selenium-ie-driver-2.53.1.jar:C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\2.53.1\selenium-safari-driver-2.53.1.jar:C:\Users\admin\.m2\repository\io\netty\netty\3.5.7.Final\netty-3.5.7.Final.jar:C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-support\2.53.1\selenium-support-2.53.1.jar:C:\Users\admin\.m2\repository\org\seleniumhq\selenium\selenium-leg-rc\2.53.1\selenium-leg-rc-2.53.1.jar:C:\Users\admin\.m2\repository\org\yaml\snakeyaml\1.8\snakeyaml-1.8.jar:C:\Users\admin\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar:C:\Users\admin\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar org.testng.remote.RemoteTestNG -serport 50826 -protocol json -d C:\Users\admin\mvnrbfnov\test-output C:\Users\admin\AppData\Local\Temp\testng-eclipse-319098342\testng-customsuite.xml
+!SESSION 2018-11-22 10:23:53.718 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-11-22 10:24:53.003
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-12-04 11:54:31.804 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data E:\MrngOct -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-12-04 11:55:10.268
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.epp.logging.aeri.ide 2 16 2018-12-04 11:55:24.024
+!MESSAGE Server ‘org.eclipse.epp.logging.aeri.ide.server’ failed with exception: Connect to dev.eclipse.org:443 [dev.eclipse.org/198.41.30.200] timed out. ; version: 1.100.0.v20160217-0435
+!STACK 0
+org.apache.http.conn.ConnectTimeoutException: Connect to dev.eclipse.org:443 [dev.eclipse.org/198.41.30.200] timed out
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:134)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:319)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:363)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:219)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at org.apache.http.client.fluent.Executor.execute(Executor.java:206)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.IO.request(IO.java:205)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.IO.refreshConfiguration(IO.java:68)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.ServerConnection.startUp(ServerConnection.java:101)
+	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
+	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.net.SocketTimeoutException
+	at java.net.SocksSocketImpl.remainingMillis(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:244)
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:125)
+	... 16 more
+!SESSION 2018-12-12 09:34:27.842 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.epp.logging.aeri.ide 2 16 2018-12-12 09:35:25.811
+!MESSAGE Server ‘org.eclipse.epp.logging.aeri.ide.server’ failed with exception: Service Temporarily Unavailable. ; version: 1.100.0.v20160217-0435
+!STACK 0
+org.apache.http.client.HttpResponseException: Service Temporarily Unavailable
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.HttpResponses$ProgressMonitorResponseHandler.handleResponse(HttpResponses.java:70)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.HttpResponses$ProgressMonitorResponseStringHandler.handleResponse(HttpResponses.java:92)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.HttpResponses$ProgressMonitorResponseStringHandler.handleResponse(HttpResponses.java:1)
+	at org.apache.http.client.fluent.Response.handleResponse(Response.java:90)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.HttpResponses.getContentWithProgress(HttpResponses.java:55)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.IO.refreshConfiguration(IO.java:69)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.ServerConnection.startUp(ServerConnection.java:101)
+	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
+	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-12-12 09:35:33.091
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-12-13 09:33:52.644 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-12-13 09:35:19.615
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2018-12-13 09:43:41.406
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar E:\MrngOct\Ebanking\bin E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 57249 -protocol json -d E:\MrngOct\Ebanking\test-output C:\Users\admin\AppData\Local\Temp\testng-eclipse--595514050\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:E:\MrngOct\Ebanking\bin:E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar:C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar org.testng.remote.RemoteTestNG -serport 57249 -protocol json -d E:\MrngOct\Ebanking\test-output C:\Users\admin\AppData\Local\Temp\testng-eclipse--595514050\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-12-13 09:54:20.219
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar E:\MrngOct\Ebanking\bin E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60735 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testnggrid.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:E:\MrngOct\Ebanking\bin:E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar:C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar org.testng.remote.RemoteTestNG -serport 60735 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testnggrid.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-12-13 09:55:22.651
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar E:\MrngOct\Ebanking\bin E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51124 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testnggrid.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:E:\MrngOct\Ebanking\bin:E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar:C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar org.testng.remote.RemoteTestNG -serport 51124 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testnggrid.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-12-13 10:00:04.558
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar E:\MrngOct\Ebanking\bin E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 65432 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testnggrid.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:E:\MrngOct\Ebanking\bin:E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar:C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar org.testng.remote.RemoteTestNG -serport 65432 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testnggrid.xml
+!SESSION 2018-12-15 13:20:10.881 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 4 567 2018-12-15 13:20:31.790
+!MESSAGE Workspace restored, but some problems occurred.
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2018-12-15 13:20:31.790
+!MESSAGE Could not read metadata for 'mvnrbfnov'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: The project description file (.project) for 'mvnrbfnov' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:888)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:902)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:882)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:733)
+	at org.eclipse.core.internal.resources.SaveManager.startup(SaveManager.java:1588)
+	at org.eclipse.core.internal.resources.Workspace.startup(Workspace.java:2386)
+	at org.eclipse.core.internal.resources.Workspace.open(Workspace.java:2157)
+	at org.eclipse.core.resources.ResourcesPlugin.start(ResourcesPlugin.java:463)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:771)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:1)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:764)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:721)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:941)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:318)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:571)
+	at org.eclipse.osgi.container.Module.start(Module.java:439)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:454)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:107)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:531)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:327)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:36)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:398)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:352)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:344)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:140)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+!SUBENTRY 2 org.eclipse.core.resources 4 567 2018-12-15 13:20:31.836
+!MESSAGE The project description file (.project) for 'mvnrbfnov' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-12-15 13:21:17.149
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-12-16 12:37:42.053 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-12-16 12:38:26.116
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2018-12-16 12:44:47.037
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar E:\MrngOct\Ebanking\bin E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64741 -protocol json -d E:\MrngOct\Ebanking\test-output C:\Users\admin\AppData\Local\Temp\testng-eclipse--1683346189\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:E:\MrngOct\Ebanking\bin:E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar:C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar org.testng.remote.RemoteTestNG -serport 64741 -protocol json -d E:\MrngOct\Ebanking\test-output C:\Users\admin\AppData\Local\Temp\testng-eclipse--1683346189\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-12-16 12:53:38.763
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar E:\MrngOct\Ebanking\bin E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 56857 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testngWD.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:E:\MrngOct\Ebanking\bin:E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar:C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar org.testng.remote.RemoteTestNG -serport 56857 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testngWD.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-12-16 12:56:05.876
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar E:\MrngOct\Ebanking\bin E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 57272 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testngWD.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:E:\MrngOct\Ebanking\bin:E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar:C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar org.testng.remote.RemoteTestNG -serport 57272 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testngWD.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-12-16 12:59:05.496
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar E:\MrngOct\Ebanking\bin E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60783 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testngWD.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:E:\MrngOct\Ebanking\bin:E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar:C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar org.testng.remote.RemoteTestNG -serport 60783 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testngWD.xml
+
+!ENTRY org.eclipse.recommenders.subwords.rcp 4 1 2018-12-16 13:00:21.671
+!MESSAGE Exception during code completion
+!STACK 0
+org.eclipse.core.runtime.OperationCanceledException
+	at org.eclipse.jdt.internal.codeassist.CompletionEngine.checkCancel(CompletionEngine.java:1683)
+	at org.eclipse.jdt.internal.codeassist.CompletionEngine.acceptType(CompletionEngine.java:1181)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment$4.acceptType(SearchableEnvironment.java:411)
+	at org.eclipse.jdt.internal.core.search.BasicSearchEngine$3.acceptIndexMatch(BasicSearchEngine.java:1125)
+	at org.eclipse.jdt.core.search.SearchPattern.acceptMatch(SearchPattern.java:298)
+	at org.eclipse.jdt.core.search.SearchPattern.findIndexMatches(SearchPattern.java:2321)
+	at org.eclipse.jdt.internal.core.search.matching.MatchLocator.findIndexMatches(MatchLocator.java:275)
+	at org.eclipse.jdt.internal.core.search.PatternSearchJob.search(PatternSearchJob.java:109)
+	at org.eclipse.jdt.internal.core.search.PatternSearchJob.execute(PatternSearchJob.java:65)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.performConcurrentJob(JobManager.java:277)
+	at org.eclipse.jdt.internal.core.search.BasicSearchEngine.searchAllTypeNames(BasicSearchEngine.java:1136)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.findTypes(SearchableEnvironment.java:421)
+	at org.eclipse.jdt.internal.codeassist.CompletionEngine.findTypesAndPackages(CompletionEngine.java:10707)
+	at org.eclipse.jdt.internal.codeassist.CompletionEngine.completionOnSingleNameReference(CompletionEngine.java:3306)
+	at org.eclipse.jdt.internal.codeassist.CompletionEngine.complete(CompletionEngine.java:1713)
+	at org.eclipse.jdt.internal.codeassist.CompletionEngine.complete(CompletionEngine.java:1939)
+	at org.eclipse.jdt.internal.core.Openable.codeComplete(Openable.java:131)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeComplete(CompilationUnit.java:357)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeComplete(CompilationUnit.java:345)
+	at org.eclipse.recommenders.internal.subwords.rcp.SubwordsSessionProcessor.computeProposals(SubwordsSessionProcessor.java:316)
+	at org.eclipse.recommenders.internal.subwords.rcp.SubwordsSessionProcessor.getNewProposals(SubwordsSessionProcessor.java:205)
+	at org.eclipse.recommenders.internal.subwords.rcp.SubwordsSessionProcessor.initializeContext(SubwordsSessionProcessor.java:145)
+	at org.eclipse.recommenders.completion.rcp.processable.IntelligentCompletionProposalComputer.fireInitializeContext(IntelligentCompletionProposalComputer.java:292)
+	at org.eclipse.recommenders.completion.rcp.processable.IntelligentCompletionProposalComputer.computeCompletionProposals(IntelligentCompletionProposalComputer.java:169)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:337)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:322)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:279)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$5.run(ContentAssistant.java:1904)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1902)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:573)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:570)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:505)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:499)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.showPossibleCompletions(ContentAssistant.java:1720)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor$AdaptedSourceViewer.doOperation(CompilationUnitEditor.java:180)
+	at org.eclipse.ui.texteditor.ContentAssistAction$1.run(ContentAssistAction.java:82)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.texteditor.ContentAssistAction.run(ContentAssistAction.java:80)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473)
+	at org.eclipse.jface.commands.ActionHandler.execute(ActionHandler.java:122)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.GeneratedMethodAccessor47.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:252)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:234)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:493)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:486)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.executeCommand(KeyBindingDispatcher.java:286)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.press(KeyBindingDispatcher.java:507)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.processKeyEvent(KeyBindingDispatcher.java:558)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.filterKeySequenceBindings(KeyBindingDispatcher.java:378)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.access$0(KeyBindingDispatcher.java:324)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher$KeyDownFilter.handleEvent(KeyBindingDispatcher.java:86)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1266)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1112)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1137)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1122)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1164)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1160)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1581)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4795)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:343)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4676)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5050)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2549)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3767)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+
+!ENTRY org.eclipse.jdt.ui 2 0 2018-12-16 13:00:34.662
+!MESSAGE The 'org.eclipse.recommenders.completion.rcp.javaCompletionProposalComputer.intelligent' proposal computer from the 'org.eclipse.recommenders.completion.rcp' plug-in did not complete normally. The extension took too long to return from the 'computeCompletionProposals()' operation.
+
+!ENTRY org.testng.eclipse 1 0 2018-12-16 13:01:58.403
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar E:\MrngOct\Ebanking\bin E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63360 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testngWD.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:E:\MrngOct\Ebanking\bin:E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar:C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar org.testng.remote.RemoteTestNG -serport 63360 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testngWD.xml
+
+!ENTRY org.eclipse.recommenders.rcp 2 23 2018-12-17 08:51:50.011
+!MESSAGE Failed to parse news feed
+!STACK 0
+org.apache.http.conn.ConnectTimeoutException: Connect to www.codetrails.com:443 [www.codetrails.com/78.46.211.228] failed: Read timed out
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:134)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:319)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:363)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:219)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at org.apache.http.client.fluent.Executor.execute(Executor.java:206)
+	at org.eclipse.recommenders.internal.rcp.news.CheckForProjectNewsJob.getRSSFeed(CheckForProjectNewsJob.java:138)
+	at org.eclipse.recommenders.internal.rcp.news.CheckForProjectNewsJob.doRun(CheckForProjectNewsJob.java:89)
+	at org.eclipse.recommenders.internal.rcp.news.CheckForProjectNewsJob.run(CheckForProjectNewsJob.java:62)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.security.ssl.InputRecord.readFully(Unknown Source)
+	at sun.security.ssl.InputRecord.read(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:290)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:259)
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:125)
+	... 14 more
+!SESSION 2018-12-17 10:44:27.310 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-12-17 10:44:34.967
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-12-17 10:45:13.093
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-12-20 15:33:47.219 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-12-20 15:34:34.593
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-12-28 16:20:44.749 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-12-28 16:21:47.639
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2018-12-28 16:32:58.638
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar E:\MrngOct\Ebanking\bin E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52079 -protocol json -d E:\MrngOct\Ebanking\test-output C:\Users\admin\AppData\Local\Temp\testng-eclipse--1126476381\testng-customsuite.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:E:\MrngOct\Ebanking\bin:E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar:C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar org.testng.remote.RemoteTestNG -serport 52079 -protocol json -d E:\MrngOct\Ebanking\test-output C:\Users\admin\AppData\Local\Temp\testng-eclipse--1126476381\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-12-28 16:47:36.933
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar E:\MrngOct\Ebanking\bin E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53211 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testnggrids.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:E:\MrngOct\Ebanking\bin:E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar:C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar org.testng.remote.RemoteTestNG -serport 53211 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testnggrids.xml
+
+!ENTRY org.testng.eclipse 1 0 2018-12-28 16:51:29.551
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar E:\MrngOct\Ebanking\bin E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53461 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testnggrids.xml
+java -ea -classpath C:\eclipse\configuration\org.eclipse.osgi\927\0\.cp\lib\testng-remote.jar:E:\MrngOct\Ebanking\bin:E:\MrngOct\Ebanking\src\com\ebanking\jars\selenium-server-standalone-2.53.1.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-codec-1.10.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\commons-logging-1.2.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\curvesapi-1.03.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\junit-4.12.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\log4j-1.2.17.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-examples-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-excelant-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-ooxml-schemas-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\poi-scratchpad-3.14-20160307.jar:E:\MrngOct\Ebanking\src\com\ebanking\jars\xmlbeans-2.6.0.jar:C:\eclipse\plugins\org.testng_6.14.2.r201802161450.jar:C:\eclipse\plugins\com.beust.jcommander_1.72.0.jar:C:\eclipse\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\eclipse\plugins\org.yaml.snakeyaml_1.17.0.jar org.testng.remote.RemoteTestNG -serport 53461 -protocol json -d E:\MrngOct\Ebanking\test-output E:\MrngOct\Ebanking\testnggrids.xml
